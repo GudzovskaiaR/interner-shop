@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "prod1",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vero officiis qui iusto maxime cupiditate? Quam veritatis dolorem officiis sed rerum",
+      "price": 100,
+      "img": "./img/1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "prod2",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vero officiis qui iusto maxime cupiditate? Quam veritatis dolorem officiis sed rerum",
+      "price": 200,
+      "img": "./img/2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "prod3",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vero officiis qui iusto maxime cupiditate? Quam veritatis dolorem officiis sed rerum",
+      "price": 150,
+      "img": "./img/3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "prod4",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vero officiis qui iusto maxime cupiditate? Quam veritatis dolorem officiis sed rerum",
+      "price": 230,
+      "img": "./img/4.jpg"
+    }
+  ],
+  "card": [
+    {
+      "idcard": "2",
+      "price": 200,
+      "count": 1,
+      "id": 2
+    }
+  ]
+}

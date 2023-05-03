@@ -1,0 +1,28 @@
+.containerHeader {
+  width: 95%;
+  height: 100px;
+  margin: 0 auto;
+  background-color: rgb(88, 217, 246);
+  color: #595656;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  margin-bottom: 50px;
+}
+.containerBasket {
+  display: flex;
+  width: 100px;
+  justify-content: space-around;
+  align-items: center;
+  margin-right: 30px;
+}
+.basket-img{
+  background-color: rgb(88, 217, 246);
+  border: none;
+}
+.basket-img img{
+width: 45px;
+}
